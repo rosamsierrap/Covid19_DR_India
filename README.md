@@ -2,8 +2,8 @@
 
 This repository contains:
 
-* Dataset file: CovidData.xlsx\\
-* Python Notebook: CovidAnalysis.ipynb\\
+* Dataset file: CovidData.xlsx
+* Python Notebook: CovidAnalysis.ipynb
 * Paper report: An analysis of COVID–19 on the Dominican Republic and India.pdf
 
 ## Motivation
