@@ -1,4 +1,4 @@
-# Covid19_DR_India
+# An Analysis of covid-19 on The Dominican Republic and India
 
 This repository contains:
 
